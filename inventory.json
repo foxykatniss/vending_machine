@@ -1,0 +1,195 @@
+[{
+	"item":"Snickers",
+	"cost":0.75,
+	"location": "A1"
+},
+{
+	"item":"Big Red",
+	"cost":0.25,
+	"location":"D2"
+},
+{
+	"item":"Snickers",
+	"cost":0.75,
+	"location":"A1"
+},
+{
+	"item":"Banana",
+	"cost":0.50,
+	"location":"C2"
+},
+{ 
+	"item":"Juicy Fruit",
+	"cost":0.25,
+	"location":"D1"
+},
+{
+	"item":"Banana",
+	"cost":0.50,
+	"location":"C2"
+},
+{
+	"item":"Big Red",
+	"cost":0.25,
+	"location":"D2"
+},
+{
+	"item":"Juicy Fruit",
+	"cost":0.25,
+	"location":"D1"
+},
+{
+	"item":"Juicy Fruit",
+	"cost":0.25,
+	"location":"D1"
+},
+{
+	"item":"Snickers",
+	"cost":0.75,
+	"location":"A1"
+},
+{
+	"item":"Twix",
+	"cost":0.75,
+	"location":"A2"
+},
+{
+	"item":"Twix",
+	"cost":0.75,
+	"location":"A2"
+},
+{
+	"item":"Twizzlers",
+	"cost":0.75,
+	"location":"B2"
+},
+{
+	"item":"Twizzlers",
+	"cost":0.75,
+	"location":"B2"
+},
+{
+	"item":"Twizzlers",
+	"cost":0.75,
+	"location":"B2"
+},
+{
+	"item":"Sour Punch Straws",
+	"cost":1.00,
+	"location":"B1"
+},
+{
+	"item":"Sour Punch Straws",
+	"cost":1.00,
+	"location":"B1"
+},
+{
+	"item":"Sour Patch Kids",
+	"cost":0.80,
+	"location":"B3"		
+},
+{
+	"item":"Sour Patch Kids",
+	"cost":0.80,
+	"location":"B3"	
+},
+{
+	"item":"Sour Patch Kids",
+	"cost":0.80,
+	"location":"B3"	
+},
+{
+	"item":"Lifesaver Gummies",
+	"cost":0.85,
+	"location":"B4"	
+},
+{
+	"item":"Lifesaver Gummies",
+	"cost":0.85,
+	"location":"B4"	
+},
+{
+	"item":"Lifesaver Gummies",
+	"cost":0.85,
+	"location":"B4"	
+},
+{
+	"item":"KitKat",
+	"cost":0.75,
+	"location":"A3"
+},
+{
+	"item":"M&M's",
+	"cost":0.75,
+	"location":"A4"
+},
+{
+	"item":"M&M's",
+	"cost":0.75,
+	"location":"A4"
+},
+{
+	"item":"Wintergreen gum",
+	"cost":0.25,
+	"location":"D3"
+},
+{
+	"item":"Wintergreen gum",
+	"cost":0.25,
+	"location":"D3"
+},
+{
+	"item":"Wintergreen gum",
+	"cost":0.25,
+	"location":"D3"
+},
+{
+	"item":"Wintergreen gum",
+	"cost":0.25,
+	"location":"D3"
+},
+{
+	"item":"Apple",
+	"cost":0.50,
+	"location":"C1"
+},
+{
+	"item":"Apple",
+	"cost":0.50,
+	"location":"C1"
+},
+{
+	"item":"Apple",
+	"cost":0.50,
+	"location":"C1"
+},
+{
+	"item":"Hard-boiled eggs",
+	"cost":0.60,
+	"location":"C3"
+},
+{
+	"item":"Hard-boiled eggs",
+	"cost":0.60,
+	"location":"C3"
+},
+{
+	"item":"FiberOne Bar",
+	"cost":0.85,
+	"location":"C4"
+},
+{
+	"item":"Tums",
+	"cost":1.50,
+	"location":"D4"
+},
+{
+	"item":"Tums",
+	"cost":1.50,
+	"location":"D4"
+},
+{
+	"item":"Tums",
+	"cost":1.50,
+	"location":"D4"
+}]
